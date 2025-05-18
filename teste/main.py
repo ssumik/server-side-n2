@@ -1,0 +1,1 @@
+print("predo estranho...")
